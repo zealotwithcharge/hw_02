@@ -1,7 +1,7 @@
 # HW_02
 
-Unzip matches.rar to access .json files for matches.
-https://developer.riotgames.com/
+Unzip matches.rar to access .json files for matches. \n
+https://developer.riotgames.com/ \n
 Get an API key to access their data.
 
 ## Average time per match by division
