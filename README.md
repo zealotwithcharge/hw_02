@@ -1,8 +1,8 @@
 # HW_02
 
-Unzip matches.rar to access .json files for matches. \n
-https://developer.riotgames.com/ \n
-Get an API key to access their data.
+Unzip matches.rar to access .json files for matches.\
+Get an API key to access their data at:\
+https://developer.riotgames.com/ 
 
 ## Average time per match by division
 In order to see the difference in match times for different divisions, I used the Riot API to get data. 
