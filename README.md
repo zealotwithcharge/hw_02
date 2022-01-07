@@ -20,4 +20,24 @@ I got 50 matches for 5 different players in each division and calculated for all
 
 ![Average Gold per Sec by division for different roles](Line_Graph.PNG)
 
+#### Average Gold Per Sec for Challengers in different regions
+
+Using the Riot API, I got the match data of Challengers in different regions.
+For each region, I got 50 matches from all the challengers, taking out duplicate matches.
+
+![Average Gold per Sec for Challengers in different regions](GPS.PNG)
+
+#### Average Damage Per Gold for Challengers in different regions
+
+![Average Damage Per Gold for Challengers in different regions](DPG.PNG)
+
+#### Average CS Per Sec for Challengers in different regions
+
+![Average CS per Sec for Challengers in different regions](CSPS.PNG)
+
+#### Average Vision Score Per Sec for Challengers in different regions
+
+![Average Vision Score per Sec for Challengers in different regions](VPS.PNG)
+
+
 https://github.com/mikeizbicki/cmc-csci040/tree/2021fall/hw_02
